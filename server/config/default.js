@@ -14,7 +14,8 @@ module.exports = {
       pin: 13
     },
     button: {
-      pin: 7
+      pin: 7,
+      isPullup:true
     }
   }
 };
